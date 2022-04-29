@@ -1,0 +1,34 @@
+{
+	"id":14001,
+	"ItemIcon":13001,
+	"maxNum":1,
+	"name":"草木集",
+	"FaBaoType":"",
+	"Affix":[],
+	"TuJianType":0,
+	"ShopType":99,
+	"ItemFlag":[
+		10
+	],
+	"WuWeiType":0,
+	"ShuXingType":0,
+	"type":12,
+	"quality":5,
+	"typePinJie":0,
+	"StuTime":0,
+	"seid":[
+		34
+	],
+	"vagueType":1,
+	"price":3000,
+	"desc":"记载了龙族特产药草的药性",
+	"desc2":"记载了龙族特产药草的药性",
+	"CanSale":0,
+	"DanDu":0,
+	"CanUse":0,
+	"NPCCanUse":0,
+	"yaoZhi1":0,
+	"yaoZhi2":0,
+	"yaoZhi3":0,
+	"wuDao":[]
+}

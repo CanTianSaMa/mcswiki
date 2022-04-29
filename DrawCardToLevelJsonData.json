@@ -1,0 +1,37 @@
+{
+	"1":{
+		"id":1,
+		"Name":"炼气期",
+		"StartCard":4,
+		"MaxDraw":4,
+		"rundDraw":5
+	},
+	"2":{
+		"id":2,
+		"Name":"筑基期",
+		"StartCard":5,
+		"MaxDraw":5,
+		"rundDraw":6
+	},
+	"3":{
+		"id":3,
+		"Name":"金丹期",
+		"StartCard":6,
+		"MaxDraw":6,
+		"rundDraw":7
+	},
+	"4":{
+		"id":4,
+		"Name":"元婴期",
+		"StartCard":6,
+		"MaxDraw":6,
+		"rundDraw":8
+	},
+	"5":{
+		"id":5,
+		"Name":"化神期",
+		"StartCard":6,
+		"MaxDraw":6,
+		"rundDraw":9
+	}
+}

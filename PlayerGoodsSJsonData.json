@@ -1,0 +1,18 @@
+{
+	"0":{
+		"id":0,
+		"itemStack":0,
+		"script":"ItemConsume",
+		"name":"金币",
+		"type":"money",
+		"onlyOne":0
+	},
+	"1":{
+		"id":1,
+		"itemStack":0,
+		"script":"ItemConsume",
+		"name":"水晶",
+		"type":"money",
+		"onlyOne":0
+	}
+}

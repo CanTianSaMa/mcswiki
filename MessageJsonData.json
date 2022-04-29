@@ -1,0 +1,20 @@
+{
+	"1":{
+		"id":1,
+		"headID":0,
+		"isPlayerSay":false,
+		"messageInfo":"系统",
+		"title":"离开",
+		"body":"结束对话",
+		"func1":"addItem",
+		"funcargs1":"",
+		"func2":"",
+		"funcargs2":"",
+		"func3":"",
+		"funcargs3":"",
+		"func4":"",
+		"funcargs4":"",
+		"func5":"",
+		"funcargs5":""
+	}
+}
